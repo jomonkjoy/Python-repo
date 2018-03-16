@@ -1,0 +1,12 @@
+"users": {
+    "Daynisdot": {
+        "password": "python_rox_my_sox.1"
+         "balance": 1000000
+         "is-locked": false
+    }
+    "Quill": {
+        "password": "featherpen.5"
+        "balance": 5.99
+        "is-locked": true
+    }
+}
